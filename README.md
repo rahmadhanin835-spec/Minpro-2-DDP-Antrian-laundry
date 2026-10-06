@@ -8,7 +8,7 @@ Kelas: B
 
 # FLOWCHART
 
-<img width="2780" height="2524" alt="minpro ddp2 flowchart" src="https://github.com/user-attachments/assets/f9b30fb8-90d7-440b-813b-8acf2c90c6c3" />
+<img width="3065" height="2387" alt="minpro ddp2 9" src="https://github.com/user-attachments/assets/471d1b31-6615-42f6-a337-0c2f0c1f7d20" />
 
 PENJELASAN
 1. start:
