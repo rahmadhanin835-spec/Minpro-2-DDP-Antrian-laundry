@@ -18,7 +18,8 @@ PENJELASAN
 <img width="182" height="101" alt="Screenshot 2026-10-06 042431" src="https://github.com/user-attachments/assets/63a828f0-1492-46ac-9ca5-43acf5ee84a0" />
 
 # ROLE: ADMIN
-<img width="302" height="260" alt="Screenshot 2026-10-06 042503" src="https://github.com/user-attachments/assets/f01e9f17-6009-4471-9170-2a24296b0b6b" />
+<img width="353" height="199" alt="image" src="https://github.com/user-attachments/assets/1b1d2fb3-ce86-4e86-aa55-e370fee703da" />
+
 
 # ROLE: USER
 <img width="251" height="131" alt="Screenshot 2026-10-06 043445" src="https://github.com/user-attachments/assets/7707fe56-a522-4b90-bad7-79cd3994d664" />
