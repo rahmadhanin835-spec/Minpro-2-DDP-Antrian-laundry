@@ -6,6 +6,10 @@ NIM: 2609116041
 
 Kelas: B
 
+# DESKRIPSII
+
+Program antrean laundry lovely merupakan program sederhana berbasis Python yang digunakan untuk mengelola antrean layanan laundry. Program memiliki sistem login dengan dua role yang berbeda yaitu admin dan user. Admin dapat menambah, menampilkan, mengubah, dan menghapus data antrean, sedangkan user hanya dapat menambah dan melihat antrean. Program juga menyediakan pilihan jenis layanan, menghitung estimasi biaya berdasarkan berat pakaian, serta menampilkan data antrean dalam bentuk tabel agar lebih mudah dibaca.
+
 # FLOWCHART
 
 <img width="3065" height="2387" alt="minpro ddp2 9" src="https://github.com/user-attachments/assets/471d1b31-6615-42f6-a337-0c2f0c1f7d20" />
